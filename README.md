@@ -11,8 +11,10 @@
 - 📫 How to reach me using Linkedln and Discord
 - 😄 Pronouns: Anjany!
 
-![Top Lang](https://github-readme-stats.vercel.app/api?username=AnjanyKumarJaiswal&theme=algolia&show_icons=true)
 
-# Top Languages Used by me💻
-![top-lang](https://github-readme-stats.vercel.app/api/top-langs?username=AnjanyKumarJaiswal&hide=jupyter%20notebook,C,Cython&theme=algolia&show_icons=true)
+
+# My Github Stats:
+![top-lang](https://github-readme-stats.vercel.app/api/top-langs?username=AnjanyKumarJaiswal&hide=jupyter%20notebook,C,Cython&theme=algolia&show_icons=true)    ![Top Lang](https://github-readme-stats.vercel.app/api?username=AnjanyKumarJaiswal&theme=algolia&show_icons=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnjanyKumarJaiswal&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
