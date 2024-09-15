@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=AnjanyKumarJaiswal)
 
 
-- 🔭 I’m interested in Machine Learning , Backend Development
-- 🧑‍🏭 I’m currently learning and developing Nodejs , FastAPi , NLP and LLM's
+- 🔭 I’m interested in Machine Learning and Full Stack Development
+- 🧑‍🏭 I’m currently learning and developing LLM Model's and Custom made Machine Learning Models
 - 😎 I’m looking to collaborate on projects and open source work!
 - 📫 How to reach me using Linkedln and Discord
 - 😄 Pronouns: Anjany!
@@ -63,7 +63,7 @@
 
 
 <h3 align='left' >Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnjanyKumarJaiswal&hide=jupyter%20notebook,C,Cython&theme=algolia&show_icons=true"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnjanyKumarJaiswal&hide=jupyter%20notebook,C,Cython&theme=algolia&show_icons=true&layout=donut"></img>
 
 ![Top Lang](https://github-readme-stats.vercel.app/api?username=AnjanyKumarJaiswal&theme=algolia&show_icons=true)
 
