@@ -63,7 +63,8 @@
 
 
 <h3 align='left' >Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnjanyKumarJaiswal&hide=jupyter%20notebook,C,Cython&theme=algolia&show_icons=true&layout=donut"></img>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanyKumarJaiswal&layout=donut&theme=algolia&show_icons=true&langs_count=8&hide=jupyter%20notebook,C,Cython"></img> -->
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanyKumarJaiswal&layout=donut&theme=algolia&show_icons=true&langs_count=8&hide=C,Cython&exclude_repo=StockMarket_AIChatBot'/>
 
 ![Top Lang](https://github-readme-stats.vercel.app/api?username=AnjanyKumarJaiswal&theme=algolia&show_icons=true)
 
