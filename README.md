@@ -1,5 +1,7 @@
 <h1 align='center'>Hi, 👋 I’m Anjany Kumar Jaiswal</h1>
 
+![Banner](github_banner.png)
+
 ![](https://komarev.com/ghpvc/?username=AnjanyKumarJaiswal)
 
 
