@@ -22,6 +22,8 @@
 
 ![Top Lang](https://github-readme-stats.vercel.app/api?username=AnjanyKumarJaiswal&theme=algolia&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnjanyKumarJaiswal&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=AnjanyKumarJaiswal&theme=gruvbox)
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnjanyKumarJaiswal&theme=github_dark"></img>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnjanyKumarJaiswal&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
