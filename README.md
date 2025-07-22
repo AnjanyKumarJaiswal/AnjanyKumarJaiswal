@@ -12,11 +12,13 @@
 - 😎 I’m looking to collaborate on projects and open source work as well as Freelance
 - 📫 How to reach me using Linkedln , Discord and Twitter(X)
 - 😄 Pronouns: Anjany!
-  
+
+
+## 🏆 GitHub Trophies
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=AnjanyKumarJaiswal&theme=radical)
 
 
-<h3 align='left' >GITHUB STATS</h3>
+## 📊 Github Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanyKumarJaiswal&layout=donut&theme=algolia&show_icons=true&langs_count=8&hide=jupyter%20notebook,C,Cython"></img> -->
 
 <div >
