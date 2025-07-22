@@ -13,7 +13,7 @@
 - 📫 How to reach me using Linkedln , Discord and Twitter(X)
 - 😄 Pronouns: Anjany!
   
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=AnjanyKumarJaiswal&theme=gruvbox)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=AnjanyKumarJaiswal&theme=radical)
 
 
 <h3 align='left' >GITHUB STATS</h3>
