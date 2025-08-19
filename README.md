@@ -26,13 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AnjanyKumarJaiswal&theme=algolia&show_icons=true" />
 </div>
 
-
-
-
-
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnjanyKumarJaiswal&theme=github_dark"></img>
+![Anjany Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnjanyKumarJaiswal&theme=nightowl)
+<!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnjanyKumarJaiswal&theme=github_dark"></img>-->
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnjanyKumarJaiswal&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
