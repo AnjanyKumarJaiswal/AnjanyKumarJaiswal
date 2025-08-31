@@ -1,14 +1,11 @@
-<h1 align='center'>Hi, 👋 I’m Anjany Kumar Jaiswal</h1>
+<h1 align='start'>Hi, 👋 I’m Anjany Kumar Jaiswal</h1>
+<p>Software Engineer | Open for Freelance Gigs | Open Source Contributing</p>
 
 <!-- GitAds-Verify: L2PUHMKFIU991JY67FSQ72QU15QVGZ72 -->
 
 ![Banner](github_banner.png)
 
 ![](https://komarev.com/ghpvc/?username=AnjanyKumarJaiswal)
-
-## hi there , im Anjany Kumar Jaiswal
-Software Engineer | Open for Freelance Gigs | Open Source Contributing
-
 
 ## 🏆 GitHub Trophies
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=AnjanyKumarJaiswal&theme=radical)
