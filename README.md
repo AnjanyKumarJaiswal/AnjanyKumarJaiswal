@@ -6,12 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=AnjanyKumarJaiswal)
 
-
-- 🔭 I’m interested in Machine Learning and Full Stack Development
-- 🧑‍🏭 Developing Full Stack App's and using Machine Learning Models Build Agentic App's
-- 😎 I’m looking to collaborate on projects and open source work as well as Freelance
-- 📫 How to reach me using Linkedln , Discord and Twitter(X)
-- 😄 Pronouns: Anjany!
+## hi there , im Anjany Kumar Jaiswal
+Software Engineer | Open for Freelance Gigs | Open Source Contributing
 
 
 ## 🏆 GitHub Trophies
